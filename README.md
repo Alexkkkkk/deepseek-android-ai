@@ -109,3 +109,7 @@ Android Studio возможны правки. Это черновик, а не �
 
 Код этого клиента — MIT. Оригинальный DeepSeek Harness — MIT
 ([deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)).
+
+## Техническое задание (новый проект)
+
+- [TECHNICAL_SPECIFICATION.md](TECHNICAL_SPECIFICATION.md) — ТЗ «DeepSeek GitHub Connector» v1.0 (Android + GitHub + DeepSeek, function calling).
