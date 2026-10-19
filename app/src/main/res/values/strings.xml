@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeepSeek Android</string>
+    <string name="welcome_title">DeepSeek Android</string>
+    <string name="welcome_subtitle">Каркас проекта на Kotlin + Jetpack Compose готов к работе</string>
+</resources>
